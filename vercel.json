@@ -1,6 +1,6 @@
 {
-  "installCommand": "echo \"skip install\"",
-  "buildCommand": "cd frontend/vite-project && npm install && npm run build",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
   "outputDirectory": "frontend/vite-project/dist",
   "rewrites": [
     {
