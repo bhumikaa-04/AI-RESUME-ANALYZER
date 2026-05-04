@@ -1,0 +1,9 @@
+{
+  "name": "ai-resume-analyzer",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm install --prefix frontend/vite-project && npm run build --prefix frontend/vite-project",
+    "dev": "npm run dev --prefix frontend/vite-project"
+  }
+}
