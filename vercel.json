@@ -1,7 +1,7 @@
 {
-  "installCommand": "npm install",
+  "root": "frontend/vite-project",
   "buildCommand": "npm run build",
-  "outputDirectory": "frontend/vite-project/dist",
+  "outputDirectory": "dist",
   "rewrites": [
     {
       "source": "/(.*)",
