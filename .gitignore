@@ -1,0 +1,9 @@
+.vs/
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/*.log
+**/*.local
+**/.env
+backend/uploads/
+frontend/vite-project/uploads/
